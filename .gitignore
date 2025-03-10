@@ -1,7 +1,7 @@
 node_modules
-target/
-src/artifacts/
+# target/
+# src/artifacts/
 log/
 .vscode
 .DS_Store
-codegenCache.json
+# codegenCache.json
